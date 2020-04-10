@@ -29,7 +29,7 @@ npm install
 
 ## Usage
 
-Option 1) Go to the provided <a href="https://blooming-temple-60682.herokuapp.com/">link</a> to experience the website or,
+Option 1) Go to the provided <a href="https://immense-peak-43329.herokuapp.com/">link</a> to experience the website or,
 
 Option 2) download and install MySQL Server and MySQL Workbench and build your own database to use wth the application. 
 
@@ -56,7 +56,7 @@ None.
 
 ## Website
 
-[Deployed Application](https://blooming-temple-60682.herokuapp.com/)
+[Deployed Application](https://immense-peak-43329.herokuapp.com/)
 
 ## Repository
 
