@@ -46,7 +46,7 @@ Note: if the above command throws an error, make sure the file is first being ta
 
 The following demonstrates general application functionality:
 
-![eat-da-burger demo](./assets/images/eat-da-burger-demo.gif)
+![eat-da-burger demo](./public/assets/imag/eat-da-burger-demo.gif)
 
 ## Contributing
 
