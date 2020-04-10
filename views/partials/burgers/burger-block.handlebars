@@ -2,8 +2,8 @@
 	<p>Burger {{id}}:</p>
     <p>{{burger_name}}</p>
     <span>
-		<button class="btn btn-success change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
-		{{#if devoured}}EATEN!{{else}}EAT IT!{{/if}}
+		<button class="btn btn-success btn-sm change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+		{{#unless devoured}}Devour It!{{/unless}}
 		</button>
 	</span>
 </li>
