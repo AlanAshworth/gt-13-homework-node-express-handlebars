@@ -1,0 +1,9 @@
+<li class="list-group-item">
+	<p>Burger {{id}}:</p>
+    <p>{{burger_name}}</p>
+    <span>
+		<button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+		{{#if devoured}}EATEN!{{else}}EAT IT!{{/if}}
+		</button>
+	</span>
+</li>
