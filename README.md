@@ -68,7 +68,7 @@ None.
 
 Contact me at <a href="mailto:awashworth927@gmail.com">awashworth927@gmail.com</a>
 
-<img src="https://avatars2.githubusercontent.com/u/38333695?v=4" alt="avatar" width="100px" height="100px" /><img src="https://avatars0.githubusercontent.com/u/60405600?v=4" alt="avatar" width="100px" height="100px" /><img src="https://avatars1.githubusercontent.com/u/43630721?v=4" alt="avatar" width="100px" height="100px" /><img src="https://avatars3.githubusercontent.com/u/54105679?v=4" alt="avatar" width="100px" height="100px" />
+<img src="https://avatars2.githubusercontent.com/u/38333695?v=4" alt="avatar" width="100px" height="100px" /> <img src="https://avatars0.githubusercontent.com/u/60405600?v=4" alt="avatar" width="100px" height="100px" /> <img src="https://avatars1.githubusercontent.com/u/43630721?v=4" alt="avatar" width="100px" height="100px" /> <img src="https://avatars3.githubusercontent.com/u/54105679?v=4" alt="avatar" width="100px" height="100px" />
 
 ## License
 
