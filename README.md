@@ -68,8 +68,7 @@ None.
 
 Contact me at <a href="mailto:awashworth927@gmail.com">awashworth927@gmail.com</a>
 
-<img src="https://avatars2.githubusercontent.com/u/38333695?v=4" alt="avatar" width="75px" height="75px" />
-<a href="https://github.com/SamSherrill">SamSherrill</a>
+<img src="https://avatars2.githubusercontent.com/u/38333695?v=4" alt="avatar" width="75px" height="75px" /><a href="https://github.com/SamSherrill">SamSherrill</a>
 
 <img src="https://avatars0.githubusercontent.com/u/60405600?v=4" alt="avatar" width="75px" height="75px" />
 <a href="https://github.com/jessie-computes">jessie-computes</a>
