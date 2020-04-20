@@ -68,6 +68,18 @@ None.
 
 Contact me at <a href="mailto:awashworth927@gmail.com">awashworth927@gmail.com</a>
 
+<img src="https://avatars2.githubusercontent.com/u/38333695?v=4" alt="avatar" width="75px" height="75px" />
+<a href="https://github.com/SamSherrill">SamSherrill</a>
+
+<img src="https://avatars0.githubusercontent.com/u/60405600?v=4" alt="avatar" width="75px" height="75px" />
+<a href="https://github.com/jessie-computes">jessie-computes</a>
+
+<img src="https://avatars1.githubusercontent.com/u/43630721?v=4" alt="avatar" width="75px" height="75px" />
+<a href="https://github.com/drospond">drospond</a>
+
+<img src="https://avatars3.githubusercontent.com/u/54105679?v=4" alt="avatar" width="75px" height="75px" />
+<a href="https://github.com/AlanAshworth">AlanAshworth</a>
+
 ## License
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
