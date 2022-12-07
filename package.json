@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/AlanAshworth/GT-Homework-13-Node-Express-Handlebars#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^4.0.3",
     "mysql": "^2.18.1"
   },
